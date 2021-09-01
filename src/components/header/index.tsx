@@ -9,9 +9,6 @@ export function Header() {
         <img src={logoImg} alt="dt money" />
         <button type="button">
           Nova transação
-        </button><img src={logoImg} alt="dt money" />
-        <button type="button">
-          Nova transação
         </button>
       </Content> 
     </Container>
