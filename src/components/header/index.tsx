@@ -1,5 +1,3 @@
-import { useState } from "react";
-
 import { Container, Content } from "./styles";
 
 import logoImg from "../../assets/logo.svg";
